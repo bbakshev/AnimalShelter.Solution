@@ -25,7 +25,7 @@ _This application will prompt the user to create a tracker for the animals up fo
 * After following the MySqlWorkbench installation instructions, open MySql Workbench and select the Local 3306 server. Then select the "Administration" tab and click on "Data Import/Restore"
 * In Import Options select "Import from Self-Contained File" and click the "..." button to navigate to the file "Dump20230306.sql" in the top level of this repository.
 * Under the "Default Schema to be Imported to" select "New..." and enter schema name Dump20230306. Click "Start Import" in the bottom right
-* Confirm the import was successful by clicking on the "Schemas" tab and seeing the richard_cha schema listed.
+* Confirm the import was successful by clicking on the "Schemas" tab and seeing the Dump20230306 schema listed.
 *  Navigate to the local directory (YourPath/AnimalShelter.Solution/AnimalShelter) and create a new file "appsettings.json"
 * Open the file in VS Code and add:
 
